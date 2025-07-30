@@ -248,7 +248,6 @@ If you find this useful, feel free to follow us and star both repos. Thanks to a
 
 - [Prompt Public Large Language Models to Synthesize Data for Private On-device Applications](https://arxiv.org/pdf/2404.04360). *Shanshan Wu, Zheng Xu, Yanxiang Zhang, Yuanbo Zhang, Daniel Ramage.* COLM 2024.
 - [Harnessing large-language models to generate private synthetic text](https://arxiv.org/abs/2306.01684). *Alexey Kurakin, Natalia Ponomareva, Umar Syed, Liam MacDermed, Andreas Terzis.* Arxiv 2024.
-- [GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation](https://arxiv.org/abs/2505.20416) *Zihong Chen, Wanli Jiang, Jinzhe Li, Zhonghang Yuan, Huanjun Kong, Wanli Ouyang, Nanqing Dong* Arxiv 2025.
 
 ### 5.11. Generative Design
 
@@ -267,6 +266,8 @@ If you find this useful, feel free to follow us and star both repos. Thanks to a
 - [Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus](https://arxiv.org/abs/2411.12498) *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* NeurIPS 2024
 - [LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning](https://arxiv.org/abs/2409.12929) *Jin Jiang, Yuchen Yan, Yang Liu, Jianing Wang, Shuai Peng, Xunliang Cai, Yixin Cao, Mengdi Zhang, Liangcai Gao.* ACL 2025
  
+### 5.15. Knowledge-Intensive Data
+- [GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation](https://arxiv.org/abs/2505.20416) *Zihong Chen, Wanli Jiang, Jinzhe Li, Zhonghang Yuan, Huanjun Kong, Wanli Ouyang, Nanqing Dong* Arxiv 2025.
 
 
 ### 6. Tools
