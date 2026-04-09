@@ -234,6 +234,7 @@ Entries marked with 🔥 are those we highly recommend.
 ### **4.5. Refinement Learning**
 - [SALMON: Self-Alignment with Instructable Reward Models](https://arxiv.org/abs/2310.05910) *Zhiqing Sun, Yikang Shen, Hongxin Zhang, Qinhong Zhou, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan.* ICLR 2024.
 - [West-of-N: Synthetic Preference Generation for Improved Reward Modeling.](https://arxiv.org/abs/2401.12086) *Alizée Pace, Jonathan Mallinson, Eric Malmi, Sebastian Krause, Aliaksei Severyn.* Arxiv 2024.
+- [LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard](https://arxiv.org/abs/2504.13125) *Varun Rao, Youran Sun, Mahendra Kumar, Tejas Mutneja, Agastya Mukherjee, Haizhao Yang.* Arxiv 2025.
 - **A. Self-playing**
   - [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/abs/2404.10642) *Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du.* Neurips 2024.
   - [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models.](https://arxiv.org/abs/2406.13542) *Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou.* ICLR 2025.
