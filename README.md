@@ -394,6 +394,7 @@ Entries marked with 🔥 are those we highly recommend.
 - [NExtLong: Toward Effective Long-Context Training without Long Documents](https://arxiv.org/abs/2501.12766) *Chaochen Gao, Xing Wu, Zijia Lin, Debing Zhang, Songlin Hu.* ICML 2025.
 - [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](https://arxiv.org/abs/2408.07055) *Yushi Bai, Jiajie Zhang, Xin Lv, Linzhi Zheng, Siqi Zhu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* ICLR 2025.
 - [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning](https://arxiv.org/abs/2506.18841) *Yuhao Wu, Yushi Bai, Zhiqiang Hu, Roy Ka-Wei Lee, Juanzi Li.* Arxiv 2025.🔥
+- [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993) *Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun.* ACL 2026.
 
 
 ### **6.7 Writing**
