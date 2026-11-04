@@ -381,6 +381,7 @@ Entries marked with 🔥 are those we highly recommend.
 - [DailyQA: A Benchmark to Evaluate Web Retrieval Augmented LLMs Based on Capturing Real-World Changes](https://arxiv.org/abs/2505.17162) *Jiehan Cheng, Zhicheng Dou.* Arxiv 2025.
 - [HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330) *Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng, Ding Wang, Jun Ma.* Arxiv 2025.
 - [AI-University: An LLM-based platform for instructional alignment to scientific classrooms](https://arxiv.org/abs/2504.08846) *Mostafa Faghih Shojaei, Rahul Gulati, Benjamin A. Jasperson, Shangshang Wang, Simone Cimolato, Dangli Cao, Willie Neiswanger, Krishna Garikipati.* Arxiv 2025.
+- [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://arxiv.org/abs/2502.17057) *Sijia Yao, Pengcheng Huang, Zhenghao Liu, Yu Gu, Yukun Yan, Shi Yu, Ge Yu.* EMNLP 2025.
 - [A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data](https://arxiv.org/abs/2412.05838) *Aniruddha Salve, Saba Attar, Mahesh Deshmukh, Sayali Shivpuje, Arnab Mitra Utsab.* Arxiv 2024.
 - [LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models](https://arxiv.org/abs/2411.00294) *Kazi Ahmed Asif Fuad, Lizhong Chen.* Arxiv 2024.
 
